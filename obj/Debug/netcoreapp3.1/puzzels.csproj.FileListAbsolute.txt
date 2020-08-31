@@ -1,0 +1,12 @@
+/Users/nhannguyen/Desktop/puzzels/bin/Debug/netcoreapp3.1/puzzels.deps.json
+/Users/nhannguyen/Desktop/puzzels/bin/Debug/netcoreapp3.1/puzzels.runtimeconfig.json
+/Users/nhannguyen/Desktop/puzzels/bin/Debug/netcoreapp3.1/puzzels.runtimeconfig.dev.json
+/Users/nhannguyen/Desktop/puzzels/bin/Debug/netcoreapp3.1/puzzels.dll
+/Users/nhannguyen/Desktop/puzzels/bin/Debug/netcoreapp3.1/puzzels.pdb
+/Users/nhannguyen/Desktop/puzzels/obj/Debug/netcoreapp3.1/puzzels.csprojAssemblyReference.cache
+/Users/nhannguyen/Desktop/puzzels/obj/Debug/netcoreapp3.1/puzzels.AssemblyInfoInputs.cache
+/Users/nhannguyen/Desktop/puzzels/obj/Debug/netcoreapp3.1/puzzels.AssemblyInfo.cs
+/Users/nhannguyen/Desktop/puzzels/obj/Debug/netcoreapp3.1/puzzels.csproj.CoreCompileInputs.cache
+/Users/nhannguyen/Desktop/puzzels/obj/Debug/netcoreapp3.1/puzzels.dll
+/Users/nhannguyen/Desktop/puzzels/obj/Debug/netcoreapp3.1/puzzels.pdb
+/Users/nhannguyen/Desktop/puzzels/obj/Debug/netcoreapp3.1/puzzels.genruntimeconfig.cache
